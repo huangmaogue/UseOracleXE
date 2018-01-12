@@ -1,0 +1,25 @@
+Z:\OracleTest\OracleTest\bin\Debug\OracleTest.exe.config
+Z:\OracleTest\OracleTest\bin\Debug\OracleTest.exe
+Z:\OracleTest\OracleTest\bin\Debug\OracleTest.pdb
+Z:\OracleTest\OracleTest\bin\Debug\LumenWorks.Framework.IO.dll
+Z:\OracleTest\OracleTest\bin\Debug\LumenWorks.Framework.IO.pdb
+Z:\OracleTest\OracleTest\bin\Debug\LumenWorks.Framework.IO.xml
+Z:\OracleTest\OracleTest\obj\Debug\OracleTest.csprojResolveAssemblyReference.cache
+Z:\OracleTest\OracleTest\obj\Debug\OracleTest.Properties.Resources.resources
+Z:\OracleTest\OracleTest\obj\Debug\OracleTest.csproj.GenerateResource.Cache
+Z:\OracleTest\OracleTest\obj\Debug\OracleTest.csproj.CoreCompileInputs.cache
+Z:\OracleTest\OracleTest\obj\Debug\OracleTest.exe
+Z:\OracleTest\OracleTest\obj\Debug\OracleTest.pdb
+E:\My Test Projects\OracleTest\OracleTest\bin\Debug\OracleTest.exe.config
+E:\My Test Projects\OracleTest\OracleTest\bin\Debug\OracleTest.exe
+E:\My Test Projects\OracleTest\OracleTest\bin\Debug\OracleTest.pdb
+E:\My Test Projects\OracleTest\OracleTest\bin\Debug\LumenWorks.Framework.IO.dll
+E:\My Test Projects\OracleTest\OracleTest\bin\Debug\LumenWorks.Framework.IO.pdb
+E:\My Test Projects\OracleTest\OracleTest\bin\Debug\LumenWorks.Framework.IO.xml
+E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.csprojResolveAssemblyReference.cache
+E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.Form1.resources
+E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.Properties.Resources.resources
+E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.csproj.GenerateResource.Cache
+E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.csproj.CoreCompileInputs.cache
+E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.exe
+E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.pdb

@@ -1,0 +1,32 @@
+
+2018-01-02 16:50:50 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:19:59 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:20:04 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:20:12 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:20:19 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:27:46 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:27:49 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:27:51 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:28:59 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:29:03 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:29:14 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:32:13 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:32:30 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:35:13 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:35:33 : NonQuery Error : update Article set JSON=''
+
+2018-01-02 17:36:38 : NonQuery Error : update Article set JSON='' where (JSON='TEST')
