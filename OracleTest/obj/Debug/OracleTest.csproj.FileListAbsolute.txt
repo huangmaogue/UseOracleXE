@@ -23,3 +23,17 @@ E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.csproj.GenerateRe
 E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.csproj.CoreCompileInputs.cache
 E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.exe
 E:\My Test Projects\OracleTest\OracleTest\obj\Debug\OracleTest.pdb
+D:\(github) My Projects\UseOracleXE\OracleTest\bin\Debug\OracleTest.exe.config
+D:\(github) My Projects\UseOracleXE\OracleTest\bin\Debug\OracleTest.exe
+D:\(github) My Projects\UseOracleXE\OracleTest\bin\Debug\OracleTest.pdb
+D:\(github) My Projects\UseOracleXE\OracleTest\bin\Debug\LumenWorks.Framework.IO.dll
+D:\(github) My Projects\UseOracleXE\OracleTest\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\(github) My Projects\UseOracleXE\OracleTest\bin\Debug\LumenWorks.Framework.IO.pdb
+D:\(github) My Projects\UseOracleXE\OracleTest\bin\Debug\LumenWorks.Framework.IO.xml
+D:\(github) My Projects\UseOracleXE\OracleTest\obj\Debug\OracleTest.csprojResolveAssemblyReference.cache
+D:\(github) My Projects\UseOracleXE\OracleTest\obj\Debug\OracleTest.Form1.resources
+D:\(github) My Projects\UseOracleXE\OracleTest\obj\Debug\OracleTest.Properties.Resources.resources
+D:\(github) My Projects\UseOracleXE\OracleTest\obj\Debug\OracleTest.csproj.GenerateResource.Cache
+D:\(github) My Projects\UseOracleXE\OracleTest\obj\Debug\OracleTest.csproj.CoreCompileInputs.cache
+D:\(github) My Projects\UseOracleXE\OracleTest\obj\Debug\OracleTest.exe
+D:\(github) My Projects\UseOracleXE\OracleTest\obj\Debug\OracleTest.pdb
